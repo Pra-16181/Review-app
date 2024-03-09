@@ -35,3 +35,4 @@ const reviewsData = [
 const App = () => <ReviewsCarousel reviewsData={reviewsData} />
 
 export default App
+
